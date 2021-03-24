@@ -1,10 +1,9 @@
-# TrustToken Solidity Challenge ⛓ ⚔️ 
 
-Our goal at TrustToken is to make financial freedom as accessible as the internet. To accomplish this, we have built an open system of smart contracts which allows users to earn interest through defi opportunities. The problem today is going to apply some key concepts & code we use in practice.
+
+The problem today is going to apply some key concepts & code we use in practice.
 
 We expect this question to take around 3-4 hours, but you can take as much time as you like. We know this is a challenging problem- if you don’t finish the whole thing, please submit as much as you have. We encourage you to create examples & write tests to show how your solution works, but this is not required.
 
-If you complete this problem and send it to hello@trusttoken.com and we will guarantee you an interview for our Solidity Engineer position!
 
 ## Problem
 
