@@ -22,7 +22,7 @@
     "chai": "^4.2.0",
     "eth-gas-reporter": "^0.2.17",
     "ganache-cli": "^6.10.0-beta.2",
-    "truffle": "^5.1.32"
+    "truffle": "^5.7.8"
   },
   "scripts": {
     "test": "(ganache-cli 2>&1 > /dev/null &) && ./node_modules/.bin/truffle test && kill $(ps -ef | grep ganache | grep -v grep | awk '{print $2}')"
